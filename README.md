@@ -22,7 +22,7 @@ Actuellement en alternance en tant que développeur back-end, je me consacre ple
 ///// After 
 
 <div align="center">
-  <img src="URL_DE_VOTRE_BANNIÈRE_PERSONNALISÉE" alt="Bannière avec 'HELLO WORLD, I'M SAMUEL!'"/>
+  <img src="https://files.oaiusercontent.com/file-xK51jUIeznmtiGX2DP1dXPxz?se=2024-01-09T13%3A24%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcb47d00d-e03d-4ec4-b8ac-61c1407c2155.webp&sig=P6Jsw/58orkRa7d%2BEvXGWyXxYvcdjtc04UZOGwfUF6M%3D" alt="Bannière avec 'HELLO WORLD, I'M SAMUEL!'"/>
 </div>
 
 <h1 align="center">Bonjour, je suis Samuel TOMEN NANA 👋</h1>
@@ -34,7 +34,7 @@ Actuellement en alternance en tant que développeur back-end, je me consacre ple
 </p>
 
 <p align="center">
-  <img src="URL_DE_VOTRE_IMAGE_DE_PROFIL" width="100" height="100" alt="Votre photo de profil"/>
+  <img src="https://avatars.githubusercontent.com/u/113606314?v=4" width="100" height="100" alt="Ma photo de profil"/>
 </p>
 
 <h3>Mes compétences 🛠</h3>
@@ -55,6 +55,6 @@ Actuellement en alternance en tant que développeur back-end, je me consacre ple
 <h3>Contactez-moi 📫</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-tomen-nana-b46ab9141">
-    <img src="URL_DU_BADGE_LINKEDIN" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
