@@ -26,7 +26,7 @@
 
 <h3>Citation favorite 💬</h3>
 <blockquote>
-  "Le code est comme l'humour. Quand tu dois l'expliquer, c'est mauvais." - Cory House
+  "Le code c'est comme l'humour. Quand tu dois l'expliquer, c'est mauvais." - Cory House
 </blockquote>
 
 <h3>Contactez-moi 📫</h3>
