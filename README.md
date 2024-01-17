@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://files.oaiusercontent.com/file-xK51jUIeznmtiGX2DP1dXPxz?se=2024-01-09T13%3A24%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcb47d00d-e03d-4ec4-b8ac-61c1407c2155.webp&sig=P6Jsw/58orkRa7d%2BEvXGWyXxYvcdjtc04UZOGwfUF6M%3D" alt="Bannière avec 'HELLO WORLD, I'M SAMUEL!'"/>
-</div>
-
-<h1 align="center">Bonjour, je suis Samuel TOMEN NANA 👋</h1>
+<h1 align="center">Hello everyone 👋</h1>
 
 <h2 align="center">Étudiant en Bachelor Développement Web Full-Stack | Ancien Militaire en reconversion dans l'Informatique</h2>
 
