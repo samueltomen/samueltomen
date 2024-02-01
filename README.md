@@ -1,6 +1,6 @@
 <h1 align="center">Hello everyone 👋</h1>
 
-<h2 align="center">Étudiant en Bachelor Développement Web Full-Stack | Ancien Militaire en reconversion dans l'Informatique</h2>
+<h2 align="center">Étudiant en Bachelor Développement Web Fullstack | Ancien Militaire en reconversion dans l'Informatique</h2>
 
 <p align="center">
   Actuellement en alternance en tant que développeur back-end, je me consacre pleinement à l'apprentissage des technologies front-end et back-end.
