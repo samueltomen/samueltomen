@@ -1,9 +1,9 @@
-<h1 align="center">Hello everyone 👋</h1>
+<h1 align="center">Bienvenue sur mon profil GitHub 👋</h1>
 
-<h2 align="center">Étudiant en Bachelor Développement Web Fullstack | Ancien Militaire en reconversion dans l'Informatique</h2>
+<h2 align="center">Développeur back-end PHP</h2>
 
 <p align="center">
-  Actuellement en alternance en tant que développeur back-end, je me consacre pleinement à l'apprentissage des technologies front-end et back-end.
+  Actuellement en alternance chez Uni-Médias en tant que développeur back-end,
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 <h3>Citation favorite 💬</h3>
 <blockquote>
-  "Le code c'est comme l'humour. Quand tu dois l'expliquer, c'est mauvais." - Cory House
+  "La persévérance est la clé du succès."
 </blockquote>
 
 <h3>Contactez-moi 📫</h3>
