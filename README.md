@@ -1,6 +1,6 @@
 <h1 align="center">Bienvenue sur mon profil GitHub 👋</h1>
 
-<h2 align="center">Développeur back-end PHP</h2>
+<h2 align="center">💻 Web Developer 👨‍💻</h2>
 
 <p align="center">
   Actuellement en alternance chez Uni-Médias en tant que développeur back-end,
