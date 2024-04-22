@@ -3,10 +3,6 @@
 <h2 align="center">💻 Web Developer 👨‍💻</h2>
 
 <p align="center">
-  Actuellement en alternance chez Uni-Médias en tant que développeur back-end,
-</p>
-
-<p align="center">
   <img src="https://avatars.githubusercontent.com/u/113606314?v=4" width="100" height="100" alt="Ma photo de profil"/>
 </p>
 
