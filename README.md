@@ -1,6 +1,6 @@
 <h1 align="center">Hello everybody 👋</h1>
 
-<h2 align="center">💻 Web Developer 👨‍💻</h2>
+<h2 align="center">💻I'm a Web Developer 👨‍💻</h2>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/113606314?v=4" width="100" height="100" alt="Ma photo de profil"/>
