@@ -1,4 +1,4 @@
-<h1 align="center">Hello everybody 👋</h1>
+<h1 align="center">Hello everyone 👋</h1>
 
 <h2 align="center">💻 Web Developer 👨‍💻</h2>
 
