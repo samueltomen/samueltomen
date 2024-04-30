@@ -11,7 +11,7 @@
 <h3>Mes compétences 🛠</h3>
 
 - Langages : `HTML`, `CSS`, `JavaScript`, `PHP`
-- Frameworks et outils : `Symfony`, `Node.js`, `Express`, `MySQL`, `PostgreSQL`, `Drupal`
+- Frameworks et outils : `Symfony`, `Node.js`, `React`, `MySQL`, `PostgreSQL`, `Drupal`
 
 <h3>Statistiques GitHub</h3>
 <p align="center">
