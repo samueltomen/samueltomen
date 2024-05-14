@@ -1,6 +1,6 @@
-<h1 align="center">Hello everyone 👋</h1>
+<h1 align="center">Welcome to my Github Profile</h1>
 
-<h2 align="center">💻 Web Developer 👨‍💻</h2>
+<h2 align="center">💻I'm a Web Developer 👨‍💻</h2>
 
 <span></span>
 
