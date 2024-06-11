@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Github Profile</h1>
 
-<h2 align="center">💻I'm a Web Developer 👨‍💻</h2>
+<h2 align="center">💻 Web Developer 👨‍💻</h2>
 
 <span></span>
 
@@ -8,12 +8,12 @@
   <img src="https://avatars.githubusercontent.com/u/113606314?v=4" width="100" height="100" alt="Ma photo de profil"/>
 </p>
 
-<h3>Mes compétences 🛠</h3>
+<h3>Skills 🛠</h3>
 
 - Langages : `HTML`, `CSS`, `JavaScript`, `PHP`
 - Frameworks et outils : `Symfony`, `Node.js`, `React`, `MySQL`, `PostgreSQL`, `Drupal`
 
-<h3>Statistiques GitHub</h3>
+<h3>Stats GitHub</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samueltomen&show_icons=true" alt="Statistiques GitHub de Samuel"/>
 </p>
