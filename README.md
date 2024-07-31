@@ -13,7 +13,7 @@
 - Langages : `HTML`, `CSS`, `JavaScript`, `PHP`,`Python`
 - Frameworks & tools : `Symfony`, `Node.js`, `React`, `MySQL`, `PostgreSQL`, `Drupal`
 
-<h3>Stats GitHub</h3>
+<h3>Stats GitHub📊</h3>
 <div>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=samueltomen&show_icons=true" alt="Statistiques GitHub de Samuel"/>
