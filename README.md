@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to my Github Profile</h1>
+<h1 align="center">Welcome on board !</h1>
 
-<h2 align="center">💻 Web Developer 👨‍💻</h2>
+<h2 align="center">Backend developer</h2>
 
 <span></span>
 
@@ -10,13 +10,17 @@
 
 <h3>Skills 🛠</h3>
 
-- Langages : `HTML`, `CSS`, `JavaScript`, `PHP`
-- Frameworks et outils : `Symfony`, `Node.js`, `React`, `MySQL`, `PostgreSQL`, `Drupal`
+- Langages : `HTML`, `CSS`, `JavaScript`, `PHP`,`Python`
+- Frameworks & tools : `Symfony`, `Node.js`, `React`, `MySQL`, `PostgreSQL`, `Drupal`
 
 <h3>Stats GitHub</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samueltomen&show_icons=true" alt="Statistiques GitHub de Samuel"/>
-</p>
+<div>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=samueltomen&show_icons=true" alt="Statistiques GitHub de Samuel"/>
+  </p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samueltomen&show_icons=true&locale=en&layout=compact" alt="samueltomen" /></p>
+  
+</div>
 
 <h3>Citation favorite 💬</h3>
 <blockquote>
