@@ -27,7 +27,7 @@
   "La persévérance est la clé du succès."
 </blockquote>
 
-<h3>Contactez-moi 📫</h3>
+<h3>Contact me 📫</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-tomen-nana-b46ab9141">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
