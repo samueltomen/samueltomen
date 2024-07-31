@@ -1,6 +1,6 @@
 <h1 align="center">Welcome on board !</h1>
 
-<h2 align="center">Backend developer</h2>
+<h2 align="center">⚒️Backend developer👨🏽‍💻</h2>
 
 <span></span>
 
