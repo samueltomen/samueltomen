@@ -30,7 +30,7 @@
         </h1>
         <hr>
     </summary>
-    <a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=MatisAgr" alt="Tisma's WakaTime stats" width="100%" height="49.7%"></a>
+    <a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=samueltomen" alt="Samuel WakaTime stats" width="100%" height="49.7%"></a>
   </details>
   
 </div>
