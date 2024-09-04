@@ -19,6 +19,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=samueltomen&show_icons=true" alt="Statistiques GitHub de Samuel"/>
   </p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samueltomen&show_icons=true&locale=en&layout=compact" alt="samueltomen" /></p>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=samueltomen)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
