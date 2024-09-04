@@ -1,7 +1,5 @@
 <h1 align="center">Welcome on board !</h1>
 
-[![MasterHead](https://i.imgur.com/D4zri5w.jpeg)](https://github.com/samueltomen)
-
 <h2 align="center">⚒️Backend developer👨🏽‍💻</h2>
 
 <span></span>
@@ -21,15 +19,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=samueltomen&show_icons=true" alt="Statistiques GitHub de Samuel"/>
   </p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samueltomen&show_icons=true&locale=en&layout=compact" alt="samueltomen" /></p>
-  
-  <h1>
-    <picture>
-        <img src = "https://i.giphy.com/Exc9GvjitUCPczepZe.webp" width = 50px>
-    </picture> 
-    My trophies 
-</h1>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=samueltomen)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
