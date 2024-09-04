@@ -19,20 +19,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=samueltomen&show_icons=true" alt="Statistiques GitHub de Samuel"/>
   </p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samueltomen&show_icons=true&locale=en&layout=compact" alt="samueltomen" /></p>
-  
-  <details>
-    <summary>
-        <h1>
-            <picture>
-                <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>
-            </picture> 
-            Github Stats 
-        </h1>
-        <hr>
-    </summary>
-    <a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=samueltomen" alt="Samuel WakaTime stats" width="100%" height="49.7%"></a>
-  </details>
-  
 </div>
 
 <h3>Citation favorite 💬</h3>
