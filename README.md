@@ -1,8 +1,6 @@
 <h1 align="center">Welcome on board !</h1>
 
-<h2 align="center">⚒️Backend developer👨🏽‍💻</h2>
-
-<span></span>
+<h3 align="center">⚒️Backend developer👨🏽‍💻</h3>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/113606314?v=4" width="100" height="100" alt="Ma photo de profil"/>
