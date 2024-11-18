@@ -32,6 +32,6 @@ I've been learning to code for 3 years after switching careers. I started with H
 
 <a href="http://www.github.com/samueltomen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samueltomen&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-![GitHub Commits Graph](https://github-readme-activity-graph.cyclic.app/graph?username=samueltomen&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph?v=1)
+![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=samueltomen&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
 <a href="https://github.com/samueltomen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueltomen&langs_count=10&title_color=3382ed&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
