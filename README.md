@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://github.com/samueltomen.png" width="250" style="border-radius: 50%;" alt="Samuel Tomen Nana"/>
+  <img src="https://github.com/samueltomen.png" width="150" style="border-radius: 50%;" alt="Samuel Tomen Nana"/>
   <h1>Samuel Tomen Nana</h1>
-  <p>Software Engineer & Data Scientist</p>
-  <p>Paris, France • Military Veteran</p>
+<p>Software Engineer & Data Scientist</p>
+<p>Paris, France • Military Veteran</p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-tomen-nana)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/samueltomen)
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/sam94100)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-tomen-nana-b46ab9141)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/samueltomen)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/sam94100)
 </div>
 
 ---
@@ -17,7 +17,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScipt](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 <br>
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
@@ -39,6 +38,8 @@
 <br>
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 ![React Flow](https://img.shields.io/badge/React_Flow-FF0072?style=flat-square&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
 
 ---
 
