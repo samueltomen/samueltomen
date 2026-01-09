@@ -32,7 +32,7 @@ I've been learning to code for 3 years after switching careers. I started with H
 
 #### Streak Stats
 
-<a href="http://www.github.com/samueltomen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samueltomen&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueltomen)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Commits Graph
 
