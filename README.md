@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/samueltomen.png" width="150" style="border-radius: 50%;" alt="Samuel Tomen Nana"/>
+  <img src="https://github.com/samueltomen.png" width="100" style="border-radius: 50%;" alt="Samuel Tomen Nana"/>
   <h1>Samuel Tomen Nana</h1>
 <p>Software Engineer & Data Scientist</p>
 <p>Paris, France • Military Veteran</p>
